@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+input {
+  font-size: 1.5rem;
+}
+
+button {
+  margin: 10px 0px;
+  font-size: 1.5rem;
+}
